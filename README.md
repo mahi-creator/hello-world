@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+First Repository of New Project
+This is the begining only
